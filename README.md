@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://www.pentalog.com/wp-content/uploads/2020/03/DevOps-engineer-job-roles-and-responsibilities.png" width="497" height="264">
+<img align="center" style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://www.pentalog.com/wp-content/uploads/2020/03/DevOps-engineer-job-roles-and-responsibilities.png" width="497" height="264">
 
 <-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
